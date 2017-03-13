@@ -1,5 +1,5 @@
 # Muistilista
 
-* aiheesi kuvaus tai linkki valmiiseen aiheeseen
+* linkki valmiiseen aiheeseen (muistilista): http://advancedkittenry.github.io/suunnittelu_ja_tyoymparisto/aiheet/Muistilista.html
 * linkki sovellukseesi
-* linkki dokumentaatioosi (linkki kansiossa doc sijaitsevaan pdf-tiedostoon).
+* linkki dokumentaatioosi: https://github.com/HenriikkaKarhuvaara/Muistilista/blob/master/Dokumentaatio/Muistilistadoku.pdf
