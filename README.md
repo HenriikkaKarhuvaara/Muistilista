@@ -2,4 +2,4 @@
 
 * aiheesi kuvaus tai linkki valmiiseen aiheeseen
 * linkki sovellukseesi
-* linkki dokumentaatioosi (linkki kansiossa doc sijaitsevaan pdf-tiedostoon).
+* linkki dokumentaatioosi: https://github.com/HenriikkaKarhuvaara/Muistilista/blob/master/Dokumentaatio/Muistilistadoku.pdf
