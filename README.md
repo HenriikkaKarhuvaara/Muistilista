@@ -4,6 +4,7 @@
 * linkki dokumentaatioosi: https://github.com/HenriikkaKarhuvaara/Muistilista/blob/master/Dokumentaatio/Muistilistadoku-4.pdf
 
 
+
 * linkki sovelluksen etusivulle: http://karhuhen.users.cs.helsinki.fi/tsoha/
 * linkki kirjautumissivulle: http://karhuhen.users.cs.helsinki.fi/tsoha/login
 
@@ -15,6 +16,7 @@
 * linkki kategorian esittelysivulle: http://karhuhen.users.cs.helsinki.fi/tsoha/kategories/1
 * linkki kategorian muokkaussivulle: http://karhuhen.users.cs.helsinki.fi/tsoha/kategories/2
 
+* linkki tietokantatauluhin: http://karhuhen.users.cs.helsinki.fi/tsoha/tietokantayhteys
 
 
 
