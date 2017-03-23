@@ -1,7 +1,7 @@
 # Muistilista
 
 * linkki valmiiseen aiheeseen (muistilista): http://advancedkittenry.github.io/suunnittelu_ja_tyoymparisto/aiheet/Muistilista.html
-* linkki dokumentaatioosi: https://github.com/HenriikkaKarhuvaara/Muistilista/blob/master/Dokumentaatio/Dokumentaatio.pdf
+* linkki dokumentaatioosi: https://github.com/HenriikkaKarhuvaara/Muistilista/blob/master/Dokumentaatio/Muistilistadoku-4.pdf
 
 
 * linkki sovelluksen etusivulle: http://karhuhen.users.cs.helsinki.fi/tsoha/
