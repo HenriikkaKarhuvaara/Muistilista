@@ -5,6 +5,7 @@
 
 
 * linkki sovelluksen etusivulle: http://karhuhen.users.cs.helsinki.fi/tsoha/
+* linkki kirjautumissivulle: https://github.com/HenriikkaKarhuvaara/Muistilista/blob/master/Dokumentaatio/Muistilistadoku-4.pdf
 
 * linkki askarelistaan: http://karhuhen.users.cs.helsinki.fi/tsoha/task
 * linkki askareen esittelysivulle: http://karhuhen.users.cs.helsinki.fi/tsoha/task/1
